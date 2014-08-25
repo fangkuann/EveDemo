@@ -1,5 +1,4 @@
 __author__ = 'fangkuan'
-DOMAIN={'people':{}}
 
 
 
@@ -82,3 +81,8 @@ people = {
 
 		'schema': schema
 }
+
+
+
+
+DOMAIN={'people':people}
